@@ -1,0 +1,10 @@
+.singleService{
+    margin-top: 20px;
+}
+.singleService p{
+    padding:0px 200px;
+}
+.singleService h3{
+    font-weight: 700;
+    margin-top: 10px;
+}
